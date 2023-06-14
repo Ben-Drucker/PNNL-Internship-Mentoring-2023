@@ -5,3 +5,4 @@
     - If you find (relevant) and interesting side tasks, feel free to explore those. (I'm trying to avoid micro-managing)
   - _Note_: This roadmap has additional views (Task List, Todo｜In Progress｜Done).
 - Necessary files are located in the ["code"](https://github.com/Ben-Drucker/PNNL-Internship-2023) tab. 📁
+- **Please feel free to ask questions if something doesn't make sense, you don't understand what something is asking to do, if something doesn't work, or if you need guidance on anything.**
