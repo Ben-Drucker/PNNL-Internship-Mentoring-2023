@@ -8,15 +8,16 @@
 - Necessary files are located in the ["code"](https://github.com/Ben-Drucker/PNNL-Internship-2023) tab. 📁
 - **Please feel free to ask questions if something doesn't make sense, you don't understand what something is asking to do, if something doesn't work, or if you need guidance on anything.**
   - If I'm not immediately available, you can work on another issue (making sure to work on items for which you've met the dependencies)
-  - If I'm not immediately available, and you've completed all the items you're capible of working on,   
+  - If I'm not immediately available, and you've completed all the items you're capible of working on, do the following: 
+    - Work on a side-project of your choice in the field of machine learning. Think of a topic you're interested in or find some ideas on Google/Chat GPT. Start a new Jupyter Notebook(s) in a new folder, and incorporate (at least) the [`sklearn`](https://scikit-learn.org/stable/) — for non-deep-learning projects or [`torch`](https://pytorch.org/) libraries — for deep learning projects.
 
 ### Goals
 
 - 
-- Take breaks! 
+- Take breaks!
 
 ### Availability/Communication
-- The availability indicator in Teams/Outlook (<img width="100px" src="https://github.com/Ben-Drucker/PNNL-Internship-2023/assets/66132763/d40c9dcb-0d47-4fdb-8448-16ac6cc0b21e">) is generally accurate, but you may send me messages at any time (even if it says "do not disturb). However, my level of availability may impact how quickly I can get back to you. Sometimes I forget to change it. Here are the rest of the availability indicators: 
+- The availability indicator in Teams/Outlook (<img width="100px" src="https://github.com/Ben-Drucker/PNNL-Internship-2023/assets/66132763/d40c9dcb-0d47-4fdb-8448-16ac6cc0b21e">) is generally accurate, but you may send me messages at any time (even if it has the "Do Not Disturb" indicator). However, my level of availability may impact how quickly I can get back to you. Sometimes I forget to change it. Here are the rest of the availability indicators: 
 
 <img height="400px" src="https://github.com/Ben-Drucker/PNNL-Internship-2023/assets/66132763/079be2f7-3e7e-4dd5-8a1d-1c0898a14025"></img>
 
