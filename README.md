@@ -17,7 +17,7 @@
 - Take breaks!
 
 ### Availability/Communication
-- The availability indicator in Teams/Outlook (<img width="100px" src="https://github.com/Ben-Drucker/PNNL-Internship-2023/assets/66132763/d40c9dcb-0d47-4fdb-8448-16ac6cc0b21e">) is generally accurate, but you may send me messages at any time (even if it has the "Do Not Disturb" indicator). However, my level of availability may impact how quickly I can get back to you. Sometimes I forget to change it. Here are the rest of the availability indicators: 
+- The availability indicator in Teams/Outlook (<img width="100px" src="https://github.com/Ben-Drucker/PNNL-Internship-2023/assets/66132763/d40c9dcb-0d47-4fdb-8448-16ac6cc0b21e">) is generally accurate, and you may send me messages at any time (even if it has the "Do Not Disturb" indicator). However, my level of availability may impact how quickly I can get back to you. Sometimes I forget to change it. Here are the rest of the availability indicators: 
 
 <img height="400px" src="https://github.com/Ben-Drucker/PNNL-Internship-2023/assets/66132763/079be2f7-3e7e-4dd5-8a1d-1c0898a14025"></img>
 
