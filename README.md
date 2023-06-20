@@ -22,7 +22,7 @@
 - Be able to update others articulately on your progress in a complex project.
 - [Stretch goal] Improve the performance (accuracy) of the existing deep learning model through changes to our model's architecture
 - Learn about other topics at PNNL from other individuals at the lab through [virtual events](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fd11sr704.na1.hubspotlinks.com%2FCtc%2F2M%2B113%2Fd11Sr704%2FVVxtP-2ww3DLVMDZ6422LNJ5W8_npSB4_whH-N9cd5HX3q90JV1-WJV7CgNnFN4pX098HQk2zVVQmY74LpdZmVtz4j54rJ37YW4dVT486JCgchVlwfkY2Xk0bfW3_rw8Z2PTmVHW5M6SnY45V0HMW1yz5qV21b_s3N9cX2t4f4fQBW3vBqrT5dPrqDW4_Zphn5665pPW1nsKpq4qCWjLN82-5LYtSKgsW7whYXh7GGxWYVwKJlC1gv3KfW808T3_5KmjrmN30xCFdLJ9YqW8hMPrz4720VhW8dpYT9352Z3NW7Vxbk74X3phFW1V7WC883G4p4W2DVwzB43xyS0W5wn7xm32CVBRN2JS66lXPGwDW1vnY4-2YpVJQW3tr2v84_skPvW30vv8G907f1-W4DQNV744CyM73f1S1&data=05%7C01%7Cben.drucker%40pnnl.gov%7Cd7eaf1ecd62d487a99b108db678db9d9%7Cd6faa5f90ae240338c0130048a38deeb%7C0%7C0%7C638217630627033585%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=aE3HB0sFupPRIAzBHjFEgVmrZ%2FQu5EdGIl%2BJhwlQhcw%3D&reserved=0).
-- Think about some goals you have, edit this readme, and put them below:
+- **Think about some goals you have, edit this readme, and put them below:**
   - Goal 1...
   - ...
 - Take breaks!
