@@ -2,7 +2,6 @@
 .DS_Store
 .vscode/
 __pycache__/
-**/__pycache__/
-
+**/__pycache__
 Tutorials/readme.md
-Tutorials/sample_answers.ipynb
+Tutorials/**/*.ipynb
