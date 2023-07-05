@@ -8,7 +8,7 @@
     - [ ] The git graph before attempting to fix the conflict
     - [ ] The conflict message in the terminal
     - [ ] The git graph after completed merge/fixing the conflict
-9. Repeat steps 6 through 8 (no screenshots needed), this time making a pull request rather than following the whole merge workflow. Make sure to still delete the secondary branch you created in step 6 both locally and remotely. Additionally, **Make sure to** do the following:
+9. Repeat steps 6 through 8 (only last screenshot needed), this time making a pull request rather than following the whole merge workflow. Make sure to still delete the secondary branch you created in step 6 both locally and remotely. Additionally, **Make sure to** do the following:
     - [ ] Add me as a reviewer
     - [ ] Make an informative comment
 10. At this point, you should just have the `main` branch remaining locally and remotely. For the next task, in the git graph settings panel <img src = "images/git-graph-buttons.png" height = "16pt"></img> (middle button), check <img src = "images/reflog-commits.png" height = "16pt"></img>
