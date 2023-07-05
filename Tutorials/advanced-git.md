@@ -14,7 +14,7 @@
 10. At this point, you should just have the `main` branch remaining locally and remotely. For the next task, in the git graph settings panel <img src = "images/git-graph-buttons.png" height = "16pt"></img> (middle button), check <img src = "images/reflog-commits.png" height = "16pt"></img>
 11. Make several commits on `main`, but pretend you need to reset back to a previous point in history to undo something. Hint: you can get individual commit hashes by right clicking an entry in the git graph. **Make sure to**:
     - [ ] Screenshot the top of the git graph that shows going back in history, and upload at the end.
-12. Reset `main` back to the most recent commit.
+12. Reset `main` back to the most recent commit. You can now turn off "Include commits only mentioned by reflogs"
 13. Pretend you forgot to add a file to the last commit. Amend the commit with the forgotten file. Push to origin.
 14. Add, commit, and push all necessary screenshots, ensuring each file has an informative filename.
 
