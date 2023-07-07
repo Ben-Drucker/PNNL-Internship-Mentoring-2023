@@ -5,3 +5,4 @@ __pycache__/
 **/__pycache__
 Tutorials/readme.md
 Tutorials/**.ipynb
+!Tutorials/exercises.ipynb
