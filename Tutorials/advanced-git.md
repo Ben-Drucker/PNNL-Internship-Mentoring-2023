@@ -8,13 +8,13 @@
     - [ ] The git graph before attempting to fix the conflict
     - [ ] The conflict message in the terminal
     - [ ] The git graph after completed merge/fixing the conflict
-9. Repeat steps 6 through 8, this time making a pull request rather than following the whole merge workflow. Make sure to still delete the secondary branch you created in step 6 both locally and remotely. Additionally, **Make sure to** do the following:
+9. Repeat steps 6 through 8 (only last screenshot needed), this time making a pull request rather than following the whole merge workflow. Make sure to still delete the secondary branch you created in step 6 both locally and remotely. Additionally, **Make sure to** do the following:
     - [ ] Add me as a reviewer
     - [ ] Make an informative comment
 10. At this point, you should just have the `main` branch remaining locally and remotely. For the next task, in the git graph settings panel <img src = "images/git-graph-buttons.png" height = "16pt"></img> (middle button), check <img src = "images/reflog-commits.png" height = "16pt"></img>
 11. Make several commits on `main`, but pretend you need to reset back to a previous point in history to undo something. Hint: you can get individual commit hashes by right clicking an entry in the git graph. **Make sure to**:
     - [ ] Screenshot the top of the git graph that shows going back in history, and upload at the end.
-12. Reset `main` back to the most recent commit.
+12. Reset `main` back to the most recent commit. You can now turn off "Include commits only mentioned by reflogs"
 13. Pretend you forgot to add a file to the last commit. Amend the commit with the forgotten file. Push to origin.
 14. Add, commit, and push all necessary screenshots, ensuring each file has an informative filename.
 
