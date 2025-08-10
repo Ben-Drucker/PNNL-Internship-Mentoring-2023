@@ -1,4 +1,4 @@
-# PNNL-Internship-2023 💻 A different message.
+# PNNL-Internship-2023 💻
 
 ### Welcome!
 - See the ["roadmap"](https://github.com/users/Ben-Drucker/projects/4) for an overview of the project. 📆
